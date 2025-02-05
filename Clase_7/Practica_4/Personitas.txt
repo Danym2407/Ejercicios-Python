@@ -1,0 +1,11 @@
+
+        Amigos:{
+                Iris Yulit Jasso Cortes {cualidades: divertida, amable, mi mejor amiga} 
+                Joshua Abdiel Barragan Guardado {cualidades: honesta, un amor, directa, en general eres mi mejor amigo}
+                Rodrigo Cruz Bartolo {cualidades: divertida, chistosa, y super adoro hablar contigo}
+            }
+        Crushes:{
+                Lorenzo Grebe {cualidades: eres una persona amable, educado, alto, bonito, ojos bonitos, soliamos estudiar juntos, sonrisa hermosa, coqueto, te sientas adelante en el salon}
+                Secreto {cualidades: listo, buena onda, lees mucho, eres divertido, usas frases chistosas, me gusta hablar contigo, desyunas muy rapido y me tienes que esperar mientras yo desayuno}
+        }
+        
