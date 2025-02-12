@@ -1,3 +1,5 @@
+# Last In First Out
+
 class MyStack:
     def __init__(self):  # Constructor corregido
         self.n = 0
