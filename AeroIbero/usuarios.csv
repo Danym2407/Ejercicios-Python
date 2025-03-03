@@ -1,0 +1,10 @@
+id,pasaporte,nombre,ap_paterno,ap_materno,fecha_nacimiento,nacionalidad,raza,telefono,correo
+1,A1,Dany,Mendez,Ramirez,03/02/25,Mediaterrano,Elfo,1,1
+2,A2,David,Conchis,Nose,03/01/25,Narniano,Elfo,2,2
+3,B1,Da,j,j,03/02/25,Ozniano,Duende,1,1
+4,B2,j,j,j,03/02/25,Narniano,Orco,2,a
+5,C1,4,4,a,03/02/25,Narniano,Mago/Bruja,1,1
+6,1,1,1,1,03/02/25,Narniano,Orco,1,1
+7,q,a,a,a,03/02/25,Narniano,Orco,1,q
+8,5,a,a,a,03/02/25,Narniano,Orco,1,q
+9,a,a,a,a,03/02/25,Ozniano,Fauno,1,1
